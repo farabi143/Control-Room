@@ -1,0 +1,1 @@
+[FBAN/FB4A;FBAV/280.0.0.48.122;FBBV/233235251;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/235001098;FBCR/Robi;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G930R4;FBSV/8.0.0;FBOP/1;FBCA/armeabi-v7a:armeabi;
